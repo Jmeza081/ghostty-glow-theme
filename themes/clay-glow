@@ -1,0 +1,29 @@
+# Clay Glow — warm near-black, with Claude's clay orange as the primary colour.
+# Built on Anthropic's brand palette (dark #141413, light #FAF9F5, orange #D97757).
+# Laid out like Til Glow: the orange takes the blue and cyan slots, so anything
+# a shell draws in blue comes out orange, and that's what glows.
+background = 141413
+foreground = C9C6BC
+cursor-color = D97757
+cursor-text = 141413
+selection-background = 3D2A22
+selection-foreground = FAF9F5
+
+# 0–7 normal, 8–15 bright. Red and amber sit either side of the orange in hue,
+# so the glow can tell them apart.
+palette = 0=#2A2825
+palette = 1=#D1495B
+palette = 2=#788C5D
+palette = 3=#D4A24C
+palette = 4=#C4623F
+palette = 5=#C28AB0
+palette = 6=#E8875C
+palette = 7=#C9C6BC
+palette = 8=#8A877E
+palette = 9=#EB7A85
+palette = 10=#A3B887
+palette = 11=#E8C27A
+palette = 12=#D97757
+palette = 13=#DDB3CE
+palette = 14=#F5B89C
+palette = 15=#FAF9F5
