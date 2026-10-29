@@ -1,0 +1,26 @@
+# Til Glow — dark navy, with a light-blue accent as the primary colour.
+# Slate greys carry the text; the accent is the one thing that glows.
+background = 0B1320
+foreground = C9CBD0
+cursor-color = 8CC2F5
+cursor-text = 0B1320
+selection-background = 1C3047
+selection-foreground = FFFFFF
+
+# 0–7 normal, 8–15 bright.
+palette = 0=#1C2533
+palette = 1=#D93844
+palette = 2=#34D27A
+palette = 3=#E0B25C
+palette = 4=#1981E3
+palette = 5=#9B8CF0
+palette = 6=#4FB8E8
+palette = 7=#C9CBD0
+palette = 8=#8A8E96
+palette = 9=#F07A82
+palette = 10=#5DDC93
+palette = 11=#F2CC85
+palette = 12=#8CC2F5
+palette = 13=#BCB2F7
+palette = 14=#B0D6F8
+palette = 15=#FFFFFF
